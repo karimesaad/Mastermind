@@ -1,6 +1,10 @@
 /*
-  Karime Saad
+  Karime Saad 
   UT EID: ks38728
+  
+  Eric Cruz
+  UT EID: ec29992
+  
 */
 
 package bonus_assignment;
